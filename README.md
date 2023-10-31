@@ -5,7 +5,6 @@ To start the project, you will need:
 1. PHP >= **8.2.6**
 2. Laravel >= **10**
 3. Composer >= **2.6.4**
-4. npm >= **8.5.1**
 5. Docker >= **24.0.6**
 6. Docker Compose >= **1.29.2**
 
